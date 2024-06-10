@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Doe - Technical Translator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background: #0073e6;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        header p {
+            margin: 5px 0;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            border-bottom: 2px solid #0073e6;
+            padding-bottom: 5px;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 5px 0;
+        }
+
+        .job {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background: #0073e6;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>John Doe</h1>
+        <p>Technical Translator | English & Spanish</p>
+        <nav>
+            <ul>
+                <li><a href="#summary">Summary</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="summary">
+            <h2>Professional Summary</h2>
+            <p>Experienced Technical Translator with a strong background in IT, specializing in translating complex technical documents from English to Spanish. Proven expertise in software development, networking, and utilizing CAT tools to ensure high-quality translations.</p>
+        </section>
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li>Programming Languages: Java, Python, C++</li>
+                <li>Software: SDL Trados, memoQ, Wordfast</li>
+                <li>IT Domains: Cybersecurity, Cloud Computing, Networking</li>
+                <li>Operating Systems: Windows, Linux</li>
+            </ul>
+            <h2>Language Proficiency</h2>
+            <ul>
+                <li>English: Native</li>
+                <li>Spanish: Native</li>
+                <li>Certifications: DELE C2, TOEFL iBT 115</li>
+            </ul>
+        </section>
+        <section id="experience">
+            <h2>Professional Experience</h2>
+            <div class="job">
+                <h3>Technical Translator - XYZ Tech Solutions</h3>
+                <p><em>January 2019 - Present</em></p>
+                <ul>
+                    <li>Translated technical documentation and user manuals.</li>
+                    <li>Collaborated with IT teams for accurate technical terminology.</li>
+                    <li>Utilized CAT tools for consistency and efficiency.</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Technical Translator - ABC Software Inc.</h3>
+                <p><em>June 2015 - December 2018</em></p>
+                <ul>
+                    <li>Led translation of cybersecurity software.</li>
+                    <li>Developed glossaries and translation memory databases.</li>
+                    <li>Worked with developers to understand software functionality.</li>
+                </ul>
+            </div>
+        </section>
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>Master’s Degree in Translation Studies - University of Language and Technology, 2018</li>
+                <li>Bachelor’s Degree in Computer Science - Tech University, 2015</li>
+            </ul>
+        </section>
+        <section id="certifications">
+            <h2>Certifications</h2>
+            <ul>
+                <li>ATA Certified Translator</li>
+                <li>CompTIA Network+ Certification</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p>Email: <a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
+            <p>Phone: +123-456-7890</p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/johndoe">linkedin.com/in/johndoe</a></p>
+        </section>
+    </footer>
+</body>
+</html>
